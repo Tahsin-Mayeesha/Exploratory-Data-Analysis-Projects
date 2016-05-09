@@ -1,0 +1,6 @@
+1.Segment the data by columns like Education, Location (Census Region), and Which character shot first?, which aren't binary. Are they any interesting patterns?
+2.Clean up columns 15 to 29, which have to do with what characters are viewed favorably and unfavorably.
+3.Which character is the most liked?
+4.Which character is the most disliked?
+5.hich character creates the most controversy? (split between dislikes and likes)
+6. Do similar analysis for star trek.
